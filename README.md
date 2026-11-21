@@ -1,12 +1,4 @@
-a
+\#how to run
 
-b
 
-c
-
-d
-
-e
-
-f
 
